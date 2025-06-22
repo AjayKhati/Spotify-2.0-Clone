@@ -21,5 +21,5 @@ https://csi-spotifyclone.netlify.app/
 
 
 
-                                    `THANKS❤`
+                                                              `THANKS❤`
 
