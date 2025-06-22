@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Home from './components/Home'
-import Opening from './components/Opening'
+// import Opening from './components/Opening'
 
 function App() {
 
